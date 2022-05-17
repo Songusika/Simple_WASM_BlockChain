@@ -53,7 +53,7 @@ extern "C"         //네임 맹글러 X
 
             double time_taken = (double)(end - start) / (double)(CLOCKS_PER_SEC);
 
-            printf("%f\n", time_taken);
+            printf("%f sec\n", time_taken);
        // }
     }
 
